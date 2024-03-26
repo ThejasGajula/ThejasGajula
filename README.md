@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThejasGajula
-- 👀 I’m interested in computer networks,cybersecurity,ai and ml
-- 🌱 I’m currently learning computer networks,data mining,and other related concepts of my interests
-- 💞️ I’m looking to collaborate on networking
+- 👀 I’m interested ai and ml
+- 🌱 I’m currently learning ,data mining,artificial intelligence ,machine learning and other related concepts of my interests
+- 💞️ I’m looking to collaborate on AI and ML projects 
 - 📫 How to reach me @thejasgajula@gmail.com
 
 <!---
